@@ -212,7 +212,6 @@ export default function Index() {
                 { icon: 'ShieldCheck', title: 'Допуски на режимные объекты', text: 'Персонал оформлен для работы на охраняемых и режимных территориях.' },
                 { icon: 'Ruler', title: 'Точная геометрия', text: 'Геодезический контроль осей, отметок и защитного слоя бетона.' },
                 { icon: 'HardHat', title: 'Промбезопасность', text: 'Соблюдение норм ОТ и ПБ на всех этапах производства работ.' },
-                { icon: 'FileCheck', title: 'Исполнительная документация', text: 'Сдаём объект с полным комплектом документов и актов.' },
               ].map((a) => (
                 <div key={a.title} className="bg-card p-7">
                   <Icon name={a.icon} size={26} className="text-primary mb-4" />
