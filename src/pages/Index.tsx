@@ -234,13 +234,13 @@ export default function Index() {
                 Обсудим ваш объект
               </h2>
               <div className="space-y-6">
-                <a href="tel:+79213236151" className="flex items-center gap-4 group">
+                <a href="tel:+79013236151" className="flex items-center gap-4 group">
                   <div className="w-12 h-12 flex items-center justify-center border border-primary/40 rounded-sm text-primary group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
                     <Icon name="Phone" size={22} />
                   </div>
                   <div>
                     <p className="text-xs uppercase tracking-widest text-muted-foreground">Телефон · звонок</p>
-                    <p className="font-display text-lg">8 (921) 323-61-51</p>
+                    <p className="font-display text-lg">8 (901) 323-61-51</p>
                   </div>
                 </a>
                 <a href="https://wa.me/79219589230" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 group">
