@@ -252,13 +252,22 @@ export default function Index() {
                     <p className="font-display text-lg">8 (921) 958-92-30</p>
                   </div>
                 </a>
+                <a href="mailto:sk555.spb@gmail.com" className="flex items-center gap-4 group">
+                  <div className="w-12 h-12 flex items-center justify-center border border-primary/40 rounded-sm text-primary group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
+                    <Icon name="Mail" size={22} />
+                  </div>
+                  <div>
+                    <p className="text-xs uppercase tracking-widest text-muted-foreground">Почта</p>
+                    <p className="font-display text-lg">sk555.spb@gmail.com</p>
+                  </div>
+                </a>
                 <div className="flex items-center gap-4">
                   <div className="w-12 h-12 flex items-center justify-center border border-primary/40 rounded-sm text-primary">
                     <Icon name="MapPin" size={22} />
                   </div>
                   <div>
                     <p className="text-xs uppercase tracking-widest text-muted-foreground">География</p>
-                    <p className="font-display text-lg">Работаем по всему региону</p>
+                    <p className="font-display text-lg">Работаем по всей России</p>
                   </div>
                 </div>
               </div>
