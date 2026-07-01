@@ -235,22 +235,22 @@ export default function Index() {
                 Обсудим ваш объект
               </h2>
               <div className="space-y-6">
-                <a href="tel:+70000000000" className="flex items-center gap-4 group">
+                <a href="tel:+79213236151" className="flex items-center gap-4 group">
                   <div className="w-12 h-12 flex items-center justify-center border border-primary/40 rounded-sm text-primary group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
                     <Icon name="Phone" size={22} />
                   </div>
                   <div>
-                    <p className="text-xs uppercase tracking-widest text-muted-foreground">Телефон</p>
-                    <p className="font-display text-lg">+7 (000) 000-00-00</p>
+                    <p className="text-xs uppercase tracking-widest text-muted-foreground">Телефон · звонок</p>
+                    <p className="font-display text-lg">8 (921) 323-61-51</p>
                   </div>
                 </a>
-                <a href="mailto:info@monolit-prom.ru" className="flex items-center gap-4 group">
+                <a href="https://wa.me/79219589230" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 group">
                   <div className="w-12 h-12 flex items-center justify-center border border-primary/40 rounded-sm text-primary group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
-                    <Icon name="Mail" size={22} />
+                    <Icon name="MessageCircle" size={22} />
                   </div>
                   <div>
-                    <p className="text-xs uppercase tracking-widest text-muted-foreground">Почта</p>
-                    <p className="font-display text-lg">info@monolit-prom.ru</p>
+                    <p className="text-xs uppercase tracking-widest text-muted-foreground">WhatsApp · Telegram · Max</p>
+                    <p className="font-display text-lg">8 (921) 958-92-30</p>
                   </div>
                 </a>
                 <div className="flex items-center gap-4">
