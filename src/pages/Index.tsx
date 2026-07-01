@@ -67,7 +67,7 @@ export default function Index() {
           <a href="#top" className="flex items-center gap-3">
             <div className="w-9 h-9 hazard-stripes rounded-sm" />
             <span className="font-display font-bold text-xl tracking-wide">
-              МОНОЛИТ<span className="text-primary">·</span>ПРОМ
+              СК<span className="text-primary"> 555</span>
             </span>
           </a>
           <nav className="hidden md:flex items-center gap-8 font-display uppercase text-sm tracking-widest">
@@ -300,11 +300,11 @@ export default function Index() {
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 hazard-stripes rounded-sm" />
             <span className="font-display font-bold tracking-wide">
-              МОНОЛИТ<span className="text-primary">·</span>ПРОМ
+              СК<span className="text-primary"> 555</span>
             </span>
           </div>
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Монолитные работы на промышленных объектах
+            © {new Date().getFullYear()} Строительная компания 555
           </p>
         </div>
       </footer>
